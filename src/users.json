@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dr. Keyon Gusikowski",
+      "email": "Keyon_Gusikowski@gmail.com",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$S0F3aOxDg7IPBePYMCJxpg$QyFc03wiEb9+EOlnIqHyT3C9F9edSORHA2WwPJFArrM",
+      "rawPassword": "Christyhaven",
+      "phone": "736.871.5129"
+    },
+    {
+      "id": 2,
+      "name": "Christiana Murray",
+      "email": "Christiana_Murray@yahoo.com",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$Y9p/Q5bDxPoY6hAZNdLnOA$7gnodwFQu3/euFuhiCY1L33dhs+Q5x78UO0m1IvHA8M",
+      "rawPassword": "LailaRidge",
+      "phone": "301.576.5803"
+    },
+    {
+      "id": 3,
+      "name": "Rhea Kutch",
+      "email": "Rhea65@gmail.com",
+      "password": "$argon2i$v=19$m=4096,t=3,p=1$2PkCeh1R52215iGRNA2IqA$xsmF0P+DelDBypxP9WgP9Q7vLB6awpstiwpMgMX1fyk",
+      "rawPassword": "Effiebury",
+      "phone": "(303) 498-1968 x337"
+    }
+  ]
+}
